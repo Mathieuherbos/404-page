@@ -28,7 +28,17 @@ footer
     text-align: center;
     color: grey;
 }
- a:hover
- {
-     color:lightblue;
- }
+
+
+ .bouton
+{
+        background-color: white; 
+        color: black; 
+        border: 2px solid #111131;
+}
+ 
+.bouton:hover
+{
+    background-color: #111131;
+    color: white;
+}
